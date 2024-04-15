@@ -110,9 +110,11 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
+![WhatsApp Image 2024-04-15 at 15 53 27_f3be39ab](https://github.com/DanJas10/MathServer/assets/150931233/27a62b82-ea39-44df-9071-daec9897e60b)
 
 
 ## HOMEPAGE:
+![WhatsApp Image 2024-04-15 at 15 52 13_3c08a73b](https://github.com/DanJas10/MathServer/assets/150931233/754cfe9e-2bb3-4bcd-baab-6fb925c549ff)
 
 
 ## RESULT:
